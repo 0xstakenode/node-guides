@@ -1,5 +1,5 @@
 # CrossFi TESTNET Guide
-![crossfi](https://github.com/0xstakenode/node-guides/edit/main/crossfi/crossfi.png)
+![crossfi](https://github.com/0xstakenode/node-guides/blob/main/crossfi/crossfi.png)
 
 ## Installation Guide
 
