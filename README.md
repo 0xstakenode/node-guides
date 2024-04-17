@@ -5,6 +5,6 @@ Contact Us:
 
 👉 WebSite: [StakeNode.io](https://stakenode.io)
 
-👉 X [X.com/Stake_Node](https://twitter.com/stake_node)
+👉 X: [X.com/Stake_Node](https://twitter.com/stake_node)
 
 
